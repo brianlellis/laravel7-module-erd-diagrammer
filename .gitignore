@@ -1,0 +1,6 @@
+# DOT FILES
+.exe
+.DS_Store
+.env
+.env.backup
+.phpunit.result.cache
