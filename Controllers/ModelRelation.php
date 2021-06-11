@@ -11,7 +11,7 @@ class ModelRelation
   private $foreignKey;
   private $name;
 
-  public function __construct($name, $type, $model, $localKey = null, $foreignKey)
+  public function __construct($name, $type, $model, $localKey = null, $foreignKey = null)
   {
     $this->type       = $type;
     $this->model      = $model;
