@@ -4,3 +4,5 @@
 .env
 .env.backup
 .phpunit.result.cache
+
+db_service.php
